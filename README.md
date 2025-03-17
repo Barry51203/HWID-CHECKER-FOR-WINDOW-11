@@ -1,6 +1,6 @@
 # HWID Checker v 3.0
 Description
-HWID Checker v2.0 is a simple batch script designed to gather hardware information from your system, such as disk drive serial numbers, CPU serial numbers, motherboard serial numbers, RAM serial numbers, and more. It can also create storage files with these hardware details for later use.
+HWID Checker v 3.0 is a simple batch script designed to gather hardware information from your system, such as disk drive serial numbers, CPU serial numbers, motherboard serial numbers, RAM serial numbers, and more. It can also create storage files with these hardware details for later use.
 
 Features:
 Check HWID: Retrieves hardware information including disk drive serial, CPU serial, processor ID, BIOS serial, motherboard serial, RAM serial, and MAC address.
